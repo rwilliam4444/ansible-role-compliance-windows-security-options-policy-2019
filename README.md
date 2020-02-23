@@ -11,8 +11,8 @@ Windows Ansible related pre-requisites
 Powershell 3.0 or higher
 
 
-# Defaults file for ansible-role-compliance-windows-security-options-policy-2019:
-# Variables
+# Defaults file for ansible-role-compliance-windows-security-options-policy-2019.
+# Variables:
 Parameter | Choices/Defaults|Comments
 ----------|-----------------|--------
 __remediate__ |"NO"| variable used to determine whether or not to remedaite
